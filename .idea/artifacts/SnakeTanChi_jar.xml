@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SnakeTanChi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeTanChi_jar</output-path>
+    <root id="archive" name="SnakeTanChi.jar">
+      <element id="module-output" name="SnakeTanChi" />
+    </root>
+  </artifact>
+</component>
